@@ -21,7 +21,7 @@ Um detalhe que diferencia esta impementação da anterior é que boleanos não e
 O resultado final é a impressão do código intermediário em MEPA(Máquina de Execução para Pascal).  
 Caso ocorra haja mais de uma variável declarada ou uma variável que não foi declarada está sendo utilizada, ocorre um erro semântico e a execução do compilador é **interrompida**, imprimindo um **ERRO**.  
 # Executar o compilador
-1. Tenha um compialdor C instalado. Caso não tenha, pode instalar seguindo as orientações da página do VS Code: [Using GCC with MinGW](https://code.visualstudio.com/docs/cpp/config-mingw)
+1. Tenha um compilador C instalado. Caso não tenha, pode instalar seguindo as orientações da página do VS Code: [Using GCC with MinGW](https://code.visualstudio.com/docs/cpp/config-mingw)
 2. Clone o repositório.
 3. Abra o terminal e entre em uma das pastas com _cd .\parte 1_ ou _cd .\parte 2_ .
 4. Execute o comando _.\compilador_de_CLite.exe input.txt_ . O input.txt é o arquivo com um programa em **C Lite**.
