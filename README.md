@@ -23,6 +23,6 @@ Caso ocorra haja mais de uma variável declarada ou uma variável que não foi d
 # Executar o compilador
 1. Tenha um compialdor C instalado. Caso não tenha, pode instalar seguindo as orientações da página do VS Code: [Using GCC with MinGW](https://code.visualstudio.com/docs/cpp/config-mingw)
 2. Clone o repositório.
-3. Abra o terminal e entre em uma das pastas com _cd parte 1_ ou _cd parte 2_ .
+3. Abra o terminal e entre em uma das pastas com _cd .\parte 1_ ou _cd .\parte 2_ .
 4. Execute o comando _.\compilador_de_CLite.exe input.txt_ . O input.txt é o arquivo com um programa em **C Lite**.
 5. Caso o executável não esteja presente em uma das pastas, basta compilar o arquivo C. Comando: _gcc compilador_de_CLite.c -o nome_do_executavel.exe_
