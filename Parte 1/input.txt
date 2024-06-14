@@ -1,0 +1,23 @@
+/*
+programa le dois numeros
+inteiros e encontra o maior
+*/
+int main(void){
+    int _num1, _num2;
+    int _maior;
+    scanf(_num1);
+    scanf(_num2);
+    _maior = _num1 / _num2 + _num1 -_num2 *0x3;
+    _maior = false;
+    _maior = true;
+    if( _num1 >= _num2 )
+        _maior = _num1;
+    else
+        _maior = _num2;
+
+    while(true){
+        _num1 = _num2 + _maior;
+        _maior = false;
+    }
+    printf(_maior, _num1, _num2) // imprime o maior valor
+}

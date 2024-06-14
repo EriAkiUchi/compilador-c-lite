@@ -1,0 +1,15 @@
+/*
+programa calcula o fatorial de um numero lido
+*/
+int main(void){
+    int _fat,_Num,_cont;
+    scanf(_Num);
+    scanf(_cont);
+    _fat = 0x1;
+    _cont = 0x2;
+    while(_cont <= _Num){
+        _fat = _fat*_cont;
+        _cont = _cont + 0x1;
+    }
+    printf(_fat, _cont); // imprime o fatorial calculado
+}
