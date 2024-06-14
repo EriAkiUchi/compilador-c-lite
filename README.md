@@ -1,5 +1,5 @@
 # Compilador C Lite
-Este é um trabalho de Faculdade desenvolvido para a disciplina de Compiladores.  
+Este é um trabalho de Faculdade desenvolvido para a disciplina de Compiladores do 6º semestre.  
 Este trabalho teve 2 entregas: parte 1 e parte 2. Sendo que cada uma das partes envolvia etapas diferentes do processo de compilação de código.  
 # Sobre a Gramática da linguagem
 A linguagem a ser compilada é uma versão mais simplificada de C: C Lite  
